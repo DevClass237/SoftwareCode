@@ -8,15 +8,16 @@ namespace SenaiKeys.Cusos
 {
     class Curso
     {
+        public int Id { get; set; }
         public string NomeCurso { get; private set; }
-        public int NumeroTurma { get; private set; }
+        public int IdTurma { get; private set; }
         public int IdDocente { get; private set; }
         public int IdSala { get; private set; }
 
-        public Curso(string nomeCurso, int numeroTurma, int idDocente, int idSala)
+        public Curso(string nomeCurso, int idTurma, int idDocente, int idSala)
         {
             NomeCurso = nomeCurso;
-            NumeroTurma = numeroTurma;
+            IdTurma = idTurma;
             IdDocente = idDocente;
             IdSala = idSala;
         }
