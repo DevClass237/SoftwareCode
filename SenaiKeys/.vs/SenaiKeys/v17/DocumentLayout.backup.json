@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "SenaiKeys\\Academicos\\MenuTestes.cs",
               "ToolTip": "C:\\Users\\Aluno\\Music\\ProjetoSenai\\SenaiKeys\\SenaiKeys\\Academicos\\MenuTestes.cs",
               "RelativeToolTip": "SenaiKeys\\Academicos\\MenuTestes.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwBkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T17:21:58.052Z",
               "EditorCaption": ""
@@ -87,8 +87,7 @@
               "RelativeToolTip": "SenaiKeys\\Academicos\\Turma.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T20:10:28.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T20:10:28.024Z"
             },
             {
               "$type": "Document",
@@ -112,8 +111,7 @@
               "RelativeToolTip": "SenaiKeys\\Academicos\\AcademicoManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T18:36:53.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T18:36:53.142Z"
             },
             {
               "$type": "Document",
@@ -125,8 +123,7 @@
               "RelativeToolTip": "SenaiKeys\\Academicos\\Sala.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA9wAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:08:32.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T20:08:32.327Z"
             },
             {
               "$type": "Document",
@@ -138,8 +135,7 @@
               "RelativeToolTip": "SenaiKeys\\Academicos\\Curso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T20:08:28.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T20:08:28.099Z"
             }
           ]
         }
