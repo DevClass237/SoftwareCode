@@ -1,18 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+@page "/Login"
 
-namespace SenaiKeys.Login {
-    class LoginConsole {
-        public (int matricula, string senha) SolicitarCredenciais()
-        {
-                Console.Write("Matrícula: ");
-                int matricula = int.Parse(Console.ReadLine()!);
-                Console.Write("Senha: ");
-                string senha = Console.ReadLine()!;
-                return (matricula, senha);
-        }
-    }
+@layout Components.Layout.LoginLayout
+
+<div class="background-login">
+
+    <div class="background-inicio-content">
+
+        <div class="container-style">
+
+            <div class="Logo-branca">
+                <img src='/Imagens/LogoSenaiBranco.png' />
+            </div>
+
+            <!-- Título abaixo do logo -->
+            <h2 class="login-title">Login</h2>
+
+            <InputText class="text-input" id="matricula" @bind-Value="matricula" placeholder="Digite sua Matricula" />
+            <InputText class="text-input" id="senha" @bind-Value="senha" placeholder="Digite sua Senha" />
+
+            <button class="btn-primary">Entrar</button>
+        </div>
+    </div>
+</div>
+
+@code {
+    private string matricula;
+    private string senha;
 }
